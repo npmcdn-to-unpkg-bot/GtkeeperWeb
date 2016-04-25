@@ -1,3 +1,4 @@
+var
 #npm
 node_modules/
 #bower
@@ -24,6 +25,7 @@ bower_components
 /app/config/parameters.ini
 
 # Managed by Composer
+
 /app/bootstrap.php.cache
 /var/bootstrap.php.cache
 /bin/*
